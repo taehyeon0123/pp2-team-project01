@@ -5,8 +5,7 @@ from urllib.parse import urlencode
 from urllib.request import urlopen
 
 API_URL = (
-    "https://apis.data.go.kr/B551177/statusOfDepartureCongestion/"
-    "getDepartureCongestion"
+    
 )
 
 
